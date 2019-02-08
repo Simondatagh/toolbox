@@ -1,0 +1,11 @@
+<b># Classic</b>
+
+import pandas as pd
+import numpy as np
+import seaborn as sns
+import matplotlib.pyplot as plt
+
+%matplotlib inline
+
+<b># Training Dataset</b>
+from sklearn.datasets import load_boston
